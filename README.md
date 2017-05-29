@@ -1,6 +1,6 @@
 # Postmortem Templates
 
-This is a collection of postmortem templates derived from different sources such as the [Site Reliability Engineering](https://landing.google.com/sre/) book, [The Practice of Cloud System Administration](http://the-cloud-book.com/) book and other online resources.
+This is a collection of postmortem templates derived from various sources such as the [Site Reliability Engineering](https://landing.google.com/sre/) book, [The Practice of Cloud System Administration](http://the-cloud-book.com/) book and other online resources.
 
 ## Template List
 * [Template from Site Reliability Engineering book](templates/postmortem-template-srebook.md)
@@ -9,7 +9,7 @@ This is a collection of postmortem templates derived from different sources such
 
 ## Load templates automatically
 
-It is possible to automatically load the postmortem templates without copy pasting it from the files or writing the structure every time you want to author an incident report.
+It is possible to load the postmortem templates automatically without copy pasting from the files or manually writing the structure every time you want to author an incident report.
 
 ### Vim
 You can add the following line into your `.vimrc` file:
