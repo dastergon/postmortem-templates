@@ -6,6 +6,7 @@ This is a collection of postmortem templates derived from various sources such a
 * [Template from Site Reliability Engineering book](templates/postmortem-template-srebook.md)
 * [Template from The Practice of Cloud System Administration book](templates/postmortem-template-thecloudbook.md)
 * [Template from Google Developers Blog post](templates/postmortem-template-google-api-infra.md)
+* [Template from Azure status history posts](templates/postmortem-template-azure.md)
 
 ## Load templates automatically
 
@@ -24,7 +25,7 @@ You can add the following line into your `.emacs` file:
 
 In both cases the filename pattern is `postmortem-*`. For example, if you create a file named `postmortem-api-outage-2017-05-29.md` it will load automatically the predefined template into that file. You can replace both the postmortem template and pattern to match your.
 
-### Examples 
+### Examples
 * [Google Compute Engine Incident #16007](https://status.cloud.google.com/incident/compute/16007?post-mortem)
 * [Azure status history](https://azure.microsoft.com/en-us/status/history/)
 * [Buildbucket Postmortem: 6% builds lost on 2015-04-22](https://docs.google.com/document/d/1AyeS2du6wp_Pw8Grg8WovbE_A_HV4EUMqdiqeq1KUZ8/edit#)
