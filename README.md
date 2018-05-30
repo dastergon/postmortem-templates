@@ -47,3 +47,4 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 * [Postmortem Action Items: Plan the Work and Work the Plan](https://www.usenix.org/conference/srecon17americas/program/presentation/lueder)
 * [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre)
+* [Postmortem culture: how you can learn from failure](https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/)
