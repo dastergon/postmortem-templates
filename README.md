@@ -50,3 +50,4 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Postmortem culture: how you can learn from failure](https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/)
 * [Postmortem Culture: Learning from Failure](https://landing.google.com/sre/book/chapters/postmortem-culture.html)
 * [re:Work- Postmortem discussion template](https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit)
+* [Wheel of Misfortune Game](https://dastergon.gr/wheel-of-misfortune/)
