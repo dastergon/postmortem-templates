@@ -7,6 +7,7 @@ This is a collection of postmortem templates derived from various sources such a
 * [Template from The Practice of Cloud System Administration book](templates/postmortem-template-thecloudbook.md)
 * [Template from Google Developers Blog post](templates/postmortem-template-google-api-infra.md)
 * [Template from Azure status history posts](templates/postmortem-template-azure.md)
+* [Template from Michael Kehoe's blog post](templates/postmortem-template-michael.kehoe.md)
 
 ## Load templates automatically
 
