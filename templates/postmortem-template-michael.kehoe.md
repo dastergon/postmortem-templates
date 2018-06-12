@@ -1,3 +1,5 @@
+> Template from: [Michael Kehoe](https://michael-kehoe.io/post/postmortem-template/)
+
 # Postmortem Template
 
 ### Summary
