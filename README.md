@@ -55,3 +55,4 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Wheel of Misfortune Game](https://dastergon.gr/wheel-of-misfortune/)
 * [Post-Incident Review Template by VictorOps](https://victorops.com/blog/the-post-incident-review-template-you-ve-always-needed)
 * [Atlassian Incident Handbook: Incident Postmortems](https://www.atlassian.com/software/jira/ops/handbook/incident-postmortems)
+* [Best engineering practices: how to fix a bug?](https://sobolevn.me/2019/01/how-to-fix-a-bug)
