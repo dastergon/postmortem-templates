@@ -56,3 +56,4 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Post-Incident Review Template by VictorOps](https://victorops.com/blog/the-post-incident-review-template-you-ve-always-needed)
 * [Atlassian Incident Handbook: Incident Postmortems](https://www.atlassian.com/software/jira/ops/handbook/incident-postmortems)
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
+* [Best engineering practices: how to fix a bug?](https://sobolevn.me/2019/01/how-to-fix-a-bug)
