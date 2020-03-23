@@ -9,6 +9,7 @@ This is a collection of postmortem templates derived from various sources such a
 * [Template from Azure status history posts](templates/postmortem-template-azure.md)
 * [Template from Michael Kehoe's blog post](templates/postmortem-template-michael.kehoe.md)
 * [Template from the Real-World SRE book](templates/postmortem-template-real-world-sre.md)
+* [Template from Elastic Cloud incident report](templates/postmortem-template-elastic.md)
 
 ## Load templates automatically
 
@@ -34,6 +35,7 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Google API infrastructure outage incident report](https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html)
 * [Gitlab - Postmortem of database outage of January 31](https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/)
 * [Summary of the Amazon DynamoDB Service Disruption and Related Impacts in the US-East Region](https://aws.amazon.com/message/5467D2/)
+* [Elastic Cloud Incident Report: February 4, 2019](https://www.elastic.co/blog/elastic-cloud-incident-report-feburary-4-2019)
 
 ### Postmortem resources
 * [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
