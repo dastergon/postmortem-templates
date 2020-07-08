@@ -1,4 +1,4 @@
-> Template from: [Microsoft Azure status history](https://azure.microsoft.com/en-us/status/history/).
+> Template from: [Microsoft Azure status history](https://status.azure.com/en-us/status/history/).
 
 # Title (incident)
 
