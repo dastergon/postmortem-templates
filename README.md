@@ -61,3 +61,4 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 * [Best engineering practices: how to fix a bug?](https://sobolevn.me/2019/01/how-to-fix-a-bug)
 * [Beginners Guide to Incident Postmortems](https://rootly.io/blog/beginners-guide-to-incident-postmortems)
+* [Documents on how to create and use postmortem templates using Squadcast](https://support.squadcast.com/docs/postmortem-templates)
