@@ -30,7 +30,7 @@ In both cases the filename pattern is `postmortem-*`. For example, if you create
 
 ### Examples
 * [Google Compute Engine Incident #16007](https://status.cloud.google.com/incident/compute/16007?post-mortem)
-* [Azure status history](https://azure.microsoft.com/en-us/status/history/)
+* [Azure status history](https://azure.status.microsoft/en-us/status/history/)
 * [Buildbucket Postmortem: 6% builds lost on 2015-04-22](https://docs.google.com/document/d/1AyeS2du6wp_Pw8Grg8WovbE_A_HV4EUMqdiqeq1KUZ8/edit#)
 * [Google API infrastructure outage incident report](https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html)
 * [Gitlab - Postmortem of database outage of January 31](https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/)
